@@ -4,10 +4,15 @@
 The entire project is running under Anaconda environnement with python 2.7
 If you've not installed it yet, click HERE to install it
 
+#### Additional librairies 
+- seaborn
+- peewee
+
 ### Database
 
 ### Docker
 
+###
 
 
 
